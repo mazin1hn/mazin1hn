@@ -24,6 +24,8 @@ Building a **production-grade Kubernetes platform on AWS (EKS)** with GitOps, se
 
 Goal: ship an app reachable over **HTTPS** on a custom domain with a fully automated, secure workflow.
 
+-----------
+
 ### 🛠 Tech Stack
 
 --------------
@@ -38,13 +40,23 @@ Goal: ship an app reachable over **HTTPS** on a custom domain with a fully autom
 
 ![image](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000) ![image](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9) 
 
+-----------
+
 ### 🚀 Featured Projects 
 
 --------------
 
 - [End to End Production Grade Deployment on AWS ECS Fargate - [Go Application]](https://github.com/mazin1hn/ecs)
+
+  
 - [Serverless REST API (API Gateway, Lambda, DynamoDB, IAM, Custom Domain)](https://github.com/mazin1hn/DevOps-Learning-AWS/tree/main/assignment-4)
+
+  
 - [Highly Available Web Platform (ALB, Auto Scaling, Multi-AZ)](https://github.com/mazin1hn/DevOps-Learning-AWS/tree/main/assignment-2)
+
+  
 - [Global Static Website Delivery (S3, CloudFront, HTTPS, DNS)](https://github.com/mazin1hn/DevOps-Learning-AWS/tree/main/assignment-3)
+
+  
 - [Multi-Container Flask Application with Redis and NGINX](https://github.com/mazin1hn/DevOps-Learning-Docker/tree/main/web_app)
   
