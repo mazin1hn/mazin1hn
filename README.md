@@ -20,9 +20,9 @@ Building a **production-grade Kubernetes platform on AWS (EKS)** with GitOps, se
 
 Goal: ship an app reachable over **HTTPS** on a custom domain with a fully automated, secure workflow.
 
-### Tech Stack
+### 🛠 Tech Stack
 
-### Featured Projects 
+### 🚀 Featured Projects 
 
 - [End to End Production Grade Deployment on AWS ECS Fargate - [Go Application]](https://github.com/mazin1hn/ecs)
 - [Serverless REST API (API Gateway, Lambda, DynamoDB, IAM, Custom Domain)](https://github.com/mazin1hn/DevOps-Learning-AWS/tree/main/assignment-4)
