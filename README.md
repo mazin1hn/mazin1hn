@@ -1,8 +1,10 @@
----------------------------------------------------------------------------------------------------## Hey, I’m Mazin 👋 -------------------------------------------------------------------------------------------------------
+<div align="center">
+  
+## Hey, I’m Mazin 👋
 
-DevOps / Platform Engineer focused on building reliable, scalable cloud-native systems.
+A DevOps Engineer who enjoys contributing to open-source initiatives, building production-grade systems and making the process transparent for others to learn.
 
-I’m particularly interested in **platform engineering**, **internal developer platforms (IDPs)**, and how DevOps principles apply to **AI-driven workloads (MLOps & DataOps)**.
+</div>
 
 ### Tech Stack
 
