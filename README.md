@@ -6,18 +6,27 @@
 
 </div>
 
-### Tech Stack
+### 🔭 Currently Working On
 
-- **Cloud:** AWS  
-- **IaC:** Terraform  
-- **Containers:** Docker  
-- **Orchestration:** ECS, EKS  
-- **CI/CD:** GitHub Actions  
-- **Languages:** Go, Bash  
-- **Security & Quality:** IAM, Trivy, Checkov, TFLint  
+Building a **production-grade Kubernetes platform on AWS (EKS)** with GitOps, secure delivery, and full observability.
+
+- **Infrastructure:** Terraform modules for VPC, EKS, IAM, and security groups (remote state + locking)
+- **Delivery:** GitHub Actions pipelines for Terraform deploys, Docker builds, and security gates (Checkov + Trivy)
+- **GitOps:** ArgoCD + Helm for automated, declarative deployments
+- **Ingress & HTTPS:** NGINX Ingress + Cert-Manager (Let’s Encrypt) for TLS
+- **DNS Automation:** ExternalDNS for automatic record updates
+- **Observability:** Prometheus + Grafana dashboards for cluster and app health
+- **Secrets:** HashiCorp Vault for centralized secret management and rotation
+
+Goal: ship an app reachable over **HTTPS** on a custom domain with a fully automated, secure workflow.
+
+### Tech Stack
 
 ### Featured Projects 
 
-- Production-grade cloud deployments using Terraform  
-- Platform engineering patterns (self-service, paved roads, GitOps)  
-- Kubernetes, ArgoCD, and modern delivery workflows  
+-  [End to End Production Grade Deployment on AWS ECS Fargate - [Go Application]](https://github.com/mazin1hn/ecs)
+-  [Serverless REST API with API Gateway, Lambda, DynamoDB, IAM, Security, and Custom Domain]([https://github.com/mazin1hn/ecs](https://github.com/mazin1hn/DevOps-Learning-AWS/tree/main/assignment-4))
+-  [Highly Available Web Architecture with ALB and Auto Scaling](https://github.com/mazin1hn/DevOps-Learning-AWS/tree/main/assignment-2)
+-  [Static Website Hosting with S3, CloudFront CDN, HTTPS, and DNS](https://github.com/mazin1hn/DevOps-Learning-AWS/tree/main/assignment-3)
+-  [Multi-Container Flask Application with Redis and NGINX](https://github.com/mazin1hn/DevOps-Learning-Docker/tree/main/web_app)
+  
