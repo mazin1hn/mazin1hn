@@ -21,6 +21,7 @@ Building a **production-grade Kubernetes platform on AWS (EKS)** with GitOps, se
 Goal: ship an app reachable over **HTTPS** on a custom domain with a fully automated, secure workflow.
 
 ### 🛠 Tech Stack
+
 <img src="{https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black}" />
 
 ### 🚀 Featured Projects 
