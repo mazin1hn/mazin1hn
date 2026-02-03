@@ -1,8 +1,8 @@
 <div align="center">
   
-## Hey, I’m Mazin 👋
+# Hey, I’m Mazin 👋
 
-A DevOps Engineer who enjoys contributing to open-source initiatives, building production-grade systems and making the process transparent for others to learn.
+## A DevOps Engineer who enjoys contributing to open-source initiatives, building production-grade systems and making the process transparent for others to learn.
 
 </div>
 
