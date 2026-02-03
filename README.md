@@ -22,7 +22,7 @@ Goal: ship an app reachable over **HTTPS** on a custom domain with a fully autom
 
 ### 🛠 Tech Stack
 
-![image]({https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black})
+![image]{https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black}
 
 ### 🚀 Featured Projects 
 
