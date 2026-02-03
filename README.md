@@ -6,7 +6,11 @@
 
 </div>
 
+------------
+
 ### 🔭 Currently Working On
+
+-----------
 
 Building a **production-grade Kubernetes platform on AWS (EKS)** with GitOps, secure delivery, and full observability.
 
@@ -22,6 +26,8 @@ Goal: ship an app reachable over **HTTPS** on a custom domain with a fully autom
 
 ### 🛠 Tech Stack
 
+--------------
+
 ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![image](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ![image](https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![image](https://img.shields.io/badge/Amazon%20ECS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![image](https://img.shields.io/badge/Amazon%20EKS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -33,6 +39,8 @@ Goal: ship an app reachable over **HTTPS** on a custom domain with a fully autom
 ![image](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000) ![image](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9) 
 
 ### 🚀 Featured Projects 
+
+--------------
 
 - [End to End Production Grade Deployment on AWS ECS Fargate - [Go Application]](https://github.com/mazin1hn/ecs)
 - [Serverless REST API (API Gateway, Lambda, DynamoDB, IAM, Custom Domain)](https://github.com/mazin1hn/DevOps-Learning-AWS/tree/main/assignment-4)
