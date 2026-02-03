@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I’m Mazin 👋
 
-<!--
-**mazin1hn/mazin1hn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps / Platform Engineer focused on building reliable, scalable cloud-native systems.
 
-Here are some ideas to get you started:
+I’m particularly interested in **platform engineering**, **internal developer platforms (IDPs)**, and how DevOps principles apply to **AI-driven workloads (MLOps & DataOps)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+- **Cloud:** AWS  
+- **IaC:** Terraform  
+- **Containers:** Docker  
+- **Orchestration:** ECS, EKS  
+- **CI/CD:** GitHub Actions  
+- **Languages:** Go, Bash  
+- **Security & Quality:** IAM, Trivy, Checkov, TFLint  
+
+### Featured Projects 
+
+- Production-grade cloud deployments using Terraform  
+- Platform engineering patterns (self-service, paved roads, GitOps)  
+- Kubernetes, ArgoCD, and modern delivery workflows  
