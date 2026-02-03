@@ -64,7 +64,6 @@ Goal: ship an app reachable over **HTTPS** on a custom domain with a fully autom
 --------------
 
 
-### GitHub Stats!
 
-[![Mazin's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
   
