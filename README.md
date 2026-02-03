@@ -59,4 +59,12 @@ Goal: ship an app reachable over **HTTPS** on a custom domain with a fully autom
 
   
 - [Multi-Container Flask Application with Redis and NGINX](https://github.com/mazin1hn/DevOps-Learning-Docker/tree/main/web_app)
+
+
+--------------
+
+
+### GitHub Stats!
+
+![Mazin's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
   
