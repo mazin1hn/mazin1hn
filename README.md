@@ -24,9 +24,9 @@ Goal: ship an app reachable over **HTTPS** on a custom domain with a fully autom
 
 ### Featured Projects 
 
--  [End to End Production Grade Deployment on AWS ECS Fargate - [Go Application]](https://github.com/mazin1hn/ecs)
--  [Serverless REST API with API Gateway, Lambda, DynamoDB, IAM, Security, and Custom Domain]([https://github.com/mazin1hn/ecs](https://github.com/mazin1hn/DevOps-Learning-AWS/tree/main/assignment-4))
--  [Highly Available Web Architecture with ALB and Auto Scaling](https://github.com/mazin1hn/DevOps-Learning-AWS/tree/main/assignment-2)
--  [Static Website Hosting with S3, CloudFront CDN, HTTPS, and DNS](https://github.com/mazin1hn/DevOps-Learning-AWS/tree/main/assignment-3)
--  [Multi-Container Flask Application with Redis and NGINX](https://github.com/mazin1hn/DevOps-Learning-Docker/tree/main/web_app)
+- [End to End Production Grade Deployment on AWS ECS Fargate - [Go Application]](https://github.com/mazin1hn/ecs)
+- [Serverless REST API (API Gateway, Lambda, DynamoDB, IAM, Custom Domain)](https://github.com/mazin1hn/DevOps-Learning-AWS/tree/main/assignment-4)
+- [Highly Available Web Platform (ALB, Auto Scaling, Multi-AZ)](https://github.com/mazin1hn/DevOps-Learning-AWS/tree/main/assignment-2)
+- [Global Static Website Delivery (S3, CloudFront, HTTPS, DNS)](https://github.com/mazin1hn/DevOps-Learning-AWS/tree/main/assignment-3)
+- [Multi-Container Flask Application with Redis and NGINX](https://github.com/mazin1hn/DevOps-Learning-Docker/tree/main/web_app)
   
