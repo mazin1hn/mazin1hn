@@ -67,7 +67,7 @@ Goal: ship an app reachable over **HTTPS** on a custom domain with a fully autom
 
 --------------
 
-- ECS Project Blog (https://mazinhanafi1.substack.com/p/building-an-end-to-end-production)
+- [ECS Project Blog](https://mazinhanafi1.substack.com/p/building-an-end-to-end-production)
 
 
 
