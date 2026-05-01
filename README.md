@@ -20,7 +20,7 @@
 
 
 
-- [ClusterCore - ClusterCore - GitOps Driven Platform on Amazon EKS](https://github.com/mazin1hn/eks)
+- [ClusterCore - GitOps Driven Platform on Amazon EKS](https://github.com/mazin1hn/eks)
 
 
 - [GatusSentinel - End-to-End ECS Fargate Deployment - Go Application](https://github.com/mazin1hn/ecs)
