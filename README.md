@@ -27,7 +27,6 @@
 
 -----------
 
-### 🚧 <img width="800" height="600" alt="software engineer gif" src="https://github.com/user-attachments/assets/9628f61c-1a6c-485b-b742-1becbac1c840" />
 Recent Projects 
 
 --------------
