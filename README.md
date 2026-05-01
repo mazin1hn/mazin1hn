@@ -59,6 +59,7 @@
 ![image](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000) ![image](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9) 
 
 
+---
 
 ### 📑 Check out my blog! 
 
