@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mazin-h/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" height="35" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="35" style="filter: invert(1);" />
   </a>
 </p>
 
