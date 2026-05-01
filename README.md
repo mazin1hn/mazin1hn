@@ -14,6 +14,12 @@
 
 </div>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/mazin-h/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25" />
+  </a>
+</p>
+
 ---
 
 ### Recent Projects 
