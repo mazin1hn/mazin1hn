@@ -2,8 +2,6 @@
   
 # Hey, I’m Mazin 👋
 
- A DevOps/Platform Engineer who enjoys contributing to open-source initiatives, building production-grade systems and making the process transparent for others to learn.
-
 </div>
 
  <p align="center">
@@ -15,7 +13,7 @@
  A DevOps/Platform Engineer who enjoys contributing to open-source initiatives, building production-grade systems and making the process transparent for others to learn.
 
 </div>
---------------
+
 
 <div align="center">
 
