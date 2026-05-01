@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mazin-h/">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="35" style="filter: invert(1);" />
+    <img src="https://img.shields.io/badge/LinkedIn-Mazin_Hanafi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
