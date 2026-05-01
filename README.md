@@ -9,8 +9,9 @@
 
 
 
-<img width="800" height="600" alt="software engineer gif" src="https://github.com/user-attachments/assets/01e25a53-ab38-464b-a765-7436cc6132e5" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/01e25a53-ab38-464b-a765-7436cc6132e5" width="50%" />
+</p>
 
 --------------
 
