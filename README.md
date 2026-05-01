@@ -6,15 +6,15 @@
 
 </div>
 
-
-
-
-
-  <p align="center">
+ <p align="center">
   <img src="https://github.com/user-attachments/assets/01e25a53-ab38-464b-a765-7436cc6132e5" width="250" />
 </p>
 
+<div align="center">
 
+ A DevOps/Platform Engineer who enjoys contributing to open-source initiatives, building production-grade systems and making the process transparent for others to learn.
+
+</div>
 --------------
 
 <div align="center">
